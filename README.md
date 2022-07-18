@@ -6,6 +6,6 @@ Aqui você pode conferir alguns dos trabalhos que realizei em Python durante o d
 
 Dentre os trabalhos, você irá encontrar:
 
-- Atividades realizadas em aula
-- Lista de Exercícios
-- Segunda avaliação da Disciplina
+- [Atividades realizadas em aula](https://github.com/LuScarton/ProgCientifica_Python/tree/main/Atividades)
+- [Lista de Exercícios](https://github.com/LuScarton/ProgCientifica_Python/tree/main/Lista)
+- [Segunda avaliação da Disciplina](https://github.com/LuScarton/ProgCientifica_Python/tree/main/Prova%202)
